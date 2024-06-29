@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.steamlink.launcher" version="1.0.0" name="SteamLink Launcher" provider-name="AndSal22">
+    <extension point="xbmc.python.script" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Lanza la version de Flatpak Flathub de Steam Link en Linux</summary>
+        <description>Lanza la version de Flatpak Flathub de Steam Link en Linux</description>
+        <platform>all</platform>
+        <language>es</language>
+    </extension>
+</addon>
